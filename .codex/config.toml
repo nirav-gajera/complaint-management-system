@@ -1,0 +1,4 @@
+[mcp_servers.laravel-boost]
+command = "E:\\xampp\\php\\php.exe"
+args = ["artisan", "boost:mcp"]
+cwd = "E:\\xampp\\htdocs\\complaint-management-system"
